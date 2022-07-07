@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/KYU2nGtZ2r" style="height: 40px !important;"><img src="https://discordapp.com/api/guilds/877551542272684082/widget.png?style=banner2" alt="Join us on Discord" style="height: 60px !important;width: 270px !important;border-radius: 19px !important;" ></a>
 
-Это вторая версия моего первого принтера GBot Tiny. Новый принтер теперь чуточку компактней по XY, но выше, при этом зона печати стала слегка больше.  
+Это вторая версия моего первого принтера GBot Tiny. Новый принтер теперь чуточку компактней по XY, но выше, при этом зона печати стала слегка больше.  [Список комплектующих для постройки принтера.](./docs/BOM GBot Tiny Mark II.md)
 
 ![Внешний вид принтер](./pics/GBot-Tiny-Mark-II-290522.png)
 
