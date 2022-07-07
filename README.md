@@ -28,8 +28,8 @@
 
 Вся документация и вспомогательные файлы будут находиться здесь [docs].
 
-[CAD]: https://github.com/gotchau/GBot-Tiny-Mark-II/tree/main/CAD
-[DXF]: https://github.com/gotchau/GBot-Tiny-Mark-II/tree/main/CAD/DXF
-[STL]: https://github.com/gotchau/GBot-Tiny-Mark-II/tree/main/CAD/STL
-[STEP]: https://github.com/gotchau/GBot-Tiny-Mark-II/tree/main/CAD/STEP
-[docs]: https://github.com/gotchau/GBot-Tiny-Mark-II/tree/main/docs
+[CAD]: ./CAD
+[DXF]: ./CAD/DXF
+[STL]: ./CAD/STL
+[STEP]: ./CAD/STEP
+[docs]: ./docs
