@@ -6,5 +6,5 @@
 
 
 
-[BOM GBot Tiny Mark II.md]: BOM_GBot_Tiny_Mark_II.md
-[Datasheet A3144.pdf ]:  Datasheet_A3144.pdf
+[BOM GBot Tiny Mark II.md]: ./BOM_GBot_Tiny_Mark_II.md
+[Datasheet A3144.pdf ]:  ./Datasheet_A3144.pdf
