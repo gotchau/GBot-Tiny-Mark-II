@@ -11,6 +11,8 @@
 
 [![Preview](./pics/Fusion360-Preview-GBot-Tiny-Mark-II-030722.png)](https://myhub.autodesk360.com/ue2ddbd59/shares/public/SH35dfcQT936092f0e43e492bbc572dd28c1?mode=embed)
 
+> https://myhub.autodesk360.com/ue2ddbd59/g/shares/SH35dfcQT936092f0e43e492bbc572dd28c1?mode=embed
+
 ## Что изменилось?
 
 - Рама стала жёстче
