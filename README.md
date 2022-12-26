@@ -35,7 +35,7 @@
 Вся документация и вспомогательные файлы будут находиться здесь [docs].
 
 [CAD]: ./CAD
-[DXF]: ./CAD/DXF
-[STL]: ./CAD/STL
-[STEP]: ./CAD/STEP
+[DXF]: ./CAD/Tiny Mark II/DXF
+[STL]: ./CAD/Tiny Mark II/STL
+[STEP]: ./CAD/Tiny Mark II/STEP
 [docs]: ./docs
